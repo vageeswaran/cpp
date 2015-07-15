@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdio>
 using namespace std;
-     
+//this is cpp     
 int main()
 {
 int t,i;
